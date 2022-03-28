@@ -102,7 +102,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.207.113.160:8081/repository/zelle_snapshot/</url>
+	      <url>http://18.207.113.160:8081/repository/Zelle_SNAPSHOT/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
